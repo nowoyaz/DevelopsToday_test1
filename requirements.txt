@@ -1,0 +1,12 @@
+fastapi
+python-dotenv
+uvicorn
+langchain
+langchain-openai
+langchain-core
+langchain-community
+faiss-cpu
+openai
+pydantic==2.8.2
+jinja2
+langchain_anthropic
