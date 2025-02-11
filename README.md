@@ -22,7 +22,6 @@ Cocktail Advisor Chat — это FastAPI-приложение, использу�
 
    ```bash
    git clone https://github.com/nowoyaz/DevelopsToday_test1.git
-   cd cocktail-advisor-chat
    ```
 
 2. **Создание и активация виртуального окружения**
